@@ -4,3 +4,4 @@
 2. install go
 3. install postgres
 4. run migrations
+5. Setup Nginx
